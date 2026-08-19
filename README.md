@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Yellow Chan
 
+<img src="https://github-readme-stats-one-psi-85.vercel.app/api?username=DangQuocHung1304&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&icon_color=A2CB8B&text_color=888888&border_color=444444&include_all_commits=true&cache_seconds=1800%22%20width=%22100%%22%20style=%22max-width:%20520px;">
 
-DangQuocHung1304/DangQuocHung1304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+### Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats-one-psi-85.vercel.app/api?username=DangQuocHung1304&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=0D1117&title_color=84B179&icon_color=A2CB8B&text_color=888888&border_color=444444&include_all_commits=true&cache_seconds=1800%22%20width=%22100%%22%20style=%22max-width:%20520px;">
